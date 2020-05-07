@@ -1,23 +1,48 @@
-[
-  {
-    "id": "1",
-    "fname": "amir",
-    "laname": "koohnavard",
-    "age": "26",
-    "phoneNumber": "09354119536"
-  },
-  {
-    "id": "2",
-    "fname": "mohmmad",
-    "laname": "koohnavard",
-    "age": "30",
-    "phoneNumber": "09354338050"
-  },
-  {
-    "id": "3",
-    "fname": "hassan",
-    "laname": "koohnavard",
-    "age": "53",
-    "phoneNumber": "09122982963"
-  }
-]
+{
+  "GET": [
+    {
+      "id": "1",
+      "fname": "amir",
+      "laname": "koohnavard",
+      "age": "26",
+      "phoneNumber": "09354119536"
+    },
+    {
+      "id": "2",
+      "fname": "mohmmad",
+      "laname": "koohnavard",
+      "age": "30",
+      "phoneNumber": "09354338050"
+    },
+    {
+      "id": "3",
+      "fname": "hassan",
+      "laname": "koohnavard",
+      "age": "53",
+      "phoneNumber": "09122982963"
+    }
+  ],
+  "POST": [
+    {
+      "id": "1",
+      "fname": "amir",
+      "laname": "koohnavard",
+      "age": "26",
+      "phoneNumber": "09354119536"
+    },
+    {
+      "id": "2",
+      "fname": "mohmmad",
+      "laname": "koohnavard",
+      "age": "30",
+      "phoneNumber": "09354338050"
+    },
+    {
+      "id": "3",
+      "fname": "hassan",
+      "laname": "koohnavard",
+      "age": "53",
+      "phoneNumber": "09122982963"
+    }
+  ]
+}
